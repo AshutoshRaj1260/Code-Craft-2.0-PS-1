@@ -404,7 +404,7 @@ nav .fa-solid{
         height: 18vh;
         padding-top: 12%;
         transition: 0.5s;
-        font-size: 1em;
+        font-size: 0.5em;
     }
     nav ul li{
         /* display: block; */
