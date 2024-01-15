@@ -404,7 +404,7 @@ nav .fa-solid{
         height: 18vh;
         padding-top: 12%;
         transition: 0.5s;
-        font-size: 0.5em;
+        font-size: 1em;
     }
     nav ul li{
         /* display: block; */
@@ -441,11 +441,11 @@ nav .fa-solid{
         margin-top: 5%;
     }
     .contact-left{
-        font-size: 10%;
+        font-size: 60%;
     }
     .contact-right{
         margin-top: 8%;
-        font-size: 10%;
+        font-size: 80%;
     }
     .footer{
         font-size: 80%;
